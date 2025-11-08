@@ -22,11 +22,11 @@ It provides RESTful APIs to manage Restaurants, Menus, Users, and Orders with co
 
 ## 🧰 Tech Stack
 
-- **Backend:** Spring Boot 3+, Spring Data JPA  
+- **Backend:** Spring Boot , Spring Data JPA  
 - **Database:** MySQL  
 - **Language:** Java  
 - **Build Tool:** Maven  
-- **IDE:** Eclipse / IntelliJ IDEA  
+- **IDE:** Eclipse  
 - **Testing Tool:** Postman  
 
 ---
